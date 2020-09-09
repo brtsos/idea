@@ -3,8 +3,31 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a3784d5-89fc-43f0-96ed-45dbd75510a1" name="Default Changelist" comment="" />
+    <list default="true" id="5a3784d5-89fc-43f0-96ed-45dbd75510a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/folder1/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/folder1/test.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +36,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hBIKomrwTnzVozbTppdTEAjl7A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,7 +51,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/index.php" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -58,41 +85,60 @@
       <option name="presentableId" value="Default" />
       <updated>1599477997599</updated>
       <workItem from="1599477998742" duration="1277000" />
-      <workItem from="1599638983104" duration="255000" />
+      <workItem from="1599638983104" duration="1119000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
+    <option name="myLimit" value="2160000000" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="547" y="222" key="#CLI_Interpreters" timestamp="1599479062684">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="547" y="222" key="#CLI_Interpreters/0.0.1920.1080@0.0.1920.1080" timestamp="1599479062684" />
+    <state x="296" y="399" key="#SQL_Dialects" timestamp="1599639626850">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="296" y="399" key="#SQL_Dialects/0.0.1920.1080@0.0.1920.1080" timestamp="1599639626850" />
     <state x="424" y="203" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599479274819">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="424" y="203" width="1071" height="730" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599479274819" />
-    <state x="800" y="303" key="FileChooserDialogImpl" timestamp="1599479049089">
+    <state x="800" y="303" key="FileChooserDialogImpl" timestamp="1599639968604">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="800" y="303" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1599479049089" />
+    <state x="800" y="303" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1599639968604" />
     <state x="763" y="471" key="NewPhpFileDialog" timestamp="1599478043959">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="763" y="471" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599478043959" />
-    <state x="454" y="180" width="1012" height="700" key="SettingsEditor" timestamp="1599478992673">
+    <state x="454" y="180" width="1012" height="700" key="SettingsEditor" timestamp="1599640101888">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="454" y="180" width="1012" height="700" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1599478992673" />
-    <state x="657" y="274" width="606" height="512" key="find.popup" timestamp="1599478552036">
+    <state x="454" y="180" width="1012" height="700" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1599640101888" />
+    <state x="657" y="274" width="606" height="512" key="find.popup" timestamp="1599640060273">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="657" y="274" width="606" height="512" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1599478552036" />
-    <state x="564" y="230" width="822" height="600" key="search.everywhere.popup" timestamp="1599478597829">
+    <state x="657" y="274" width="606" height="512" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1599640060273" />
+    <state x="564" y="230" width="822" height="600" key="search.everywhere.popup" timestamp="1599640077116">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="564" y="230" width="822" height="600" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1599478597829" />
+    <state x="564" y="230" width="822" height="600" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1599640077116" />
   </component>
 </project>
